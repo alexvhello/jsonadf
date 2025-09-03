@@ -1,0 +1,72 @@
+[
+  {
+    "id_compania": 101,
+    "id_cliente": 1,
+    "nombre_completo": "Juan Pérez",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 102,
+    "id_cliente": 1,
+    "nombre_completo": "Juan Pérez",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 103,
+    "id_cliente": 1,
+    "nombre_completo": "Juan Pérez",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 104,
+    "id_cliente": 2,
+    "nombre_completo": "María Gómez",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 105,
+    "id_cliente": 2,
+    "nombre_completo": "María Gómez",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 102,
+    "id_cliente": 3,
+    "nombre_completo": "Pedro Sánchez",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 106,
+    "id_cliente": 4,
+    "nombre_completo": "Ana Torres",
+    "id_cliente_consolidador": 3,
+    "nombre_completo_consolidador": "Pedro Sánchez"
+  },
+  {
+    "id_compania": 107,
+    "id_cliente": 5,
+    "nombre_completo": "Carlos Ruiz",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 102,
+    "id_cliente": 6,
+    "nombre_completo": "Lucía Fernández",
+    "id_cliente_consolidador": null,
+    "nombre_completo_consolidador": null
+  },
+  {
+    "id_compania": 108,
+    "id_cliente": 7,
+    "nombre_completo": "Marco Castillo",
+    "id_cliente_consolidador": 6,
+    "nombre_completo_consolidador": "Lucía Fernández"
+  }
+]
